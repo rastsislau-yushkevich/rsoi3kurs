@@ -1,0 +1,13 @@
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.deps.json
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.runtimeconfig.json
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.runtimeconfig.dev.json
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.dll
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.pdb
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.csproj.AssemblyReference.cache
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.AssemblyInfoInputs.cache
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.AssemblyInfo.cs
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.csproj.CoreCompileInputs.cache
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.dll
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.pdb
+/Users/ryu/Desktop/rsoi/labs/laba5/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.genruntimeconfig.cache
